@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NotificationSandbox</string>
+    <string name="notification_test_app">Notification Test App</string>
+    <string name="notification_1">Notification 1</string>
+    <string name="notification_2">Notification 2</string>
+    <string name="notification_delayed">Delayed Notification</string>
 </resources>
