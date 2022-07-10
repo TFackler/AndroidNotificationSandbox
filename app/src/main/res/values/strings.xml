@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">NotificationSandbox</string>
     <string name="notification_test_app">Notification Test App</string>
-    <string name="notification_1">Notification 1</string>
-    <string name="notification_2">Notification 2</string>
+    <string name="notification_1_title">Notification 1</string>
+    <string name="notification_1_description">Description for Notification 1</string>
+    <string name="notification_2_title">Notification 2</string>
+    <string name="notification_2_description">Description for Notification 2. This description is longer than the one for Notification 1 and thus there is a lot more text here.</string>
     <string name="notification_delayed">Delayed Notification</string>
+    <string name="notification_simple">Simple Notification</string>
+    <string name="notification_simple_description">This is a simple and small notification to test how notification work in android.</string>
 </resources>
